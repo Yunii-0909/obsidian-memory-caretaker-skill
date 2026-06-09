@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Memory Caretaker"
+  short_description: "Maintain Obsidian work memory."
+  default_prompt: "Search my Obsidian knowledge base for relevant prior context, use it in the task, then decide whether any new confirmed rules, workflows, decisions, or reusable experience should be written back."
