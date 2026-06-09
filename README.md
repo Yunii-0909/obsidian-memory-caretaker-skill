@@ -15,7 +15,7 @@ Install from this repository with the Codex skill installer:
 
 ```bash
 python /path/to/install-skill-from-github.py \
-  --repo <github-user>/<repo-name> \
+  --repo Yunii-0909/obsidian-memory-caretaker-skill \
   --path skills/obsidian-memory-caretaker
 ```
 
@@ -54,4 +54,3 @@ skills/obsidian-memory-caretaker/
 ## Notes
 
 This skill does not include any private vault content. It only provides the workflow, policies, templates, and a local search helper.
-
